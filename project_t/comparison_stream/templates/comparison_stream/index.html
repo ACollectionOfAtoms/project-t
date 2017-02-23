@@ -10,9 +10,11 @@
     <link rel="icon" href="static/favicon.ico">
   </head>
   <body>
+    <h1> Start here. </h1>
     <div id="app">
     </div>
     <!-- main app -->
-    <script src="static/build.js"></script>
+    {% load static %}
+    <script src="{% static 'comparison_stream/js/build.js' %}"></script>
   </body>
 </html>

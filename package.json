@@ -1,0 +1,22 @@
+{
+  "name": "project-t",
+  "version": "1.0.0",
+  "description": "Project T",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACollectionOfAtoms/project-t.git"
+  },
+  "author": "Adam Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACollectionOfAtoms/project-t/issues"
+  },
+  "homepage": "https://github.com/ACollectionOfAtoms/project-t#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
