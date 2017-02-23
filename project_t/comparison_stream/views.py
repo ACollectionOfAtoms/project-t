@@ -1,5 +1,5 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
 
 def index(request):
-    return HttpResponse("This is where the comparison stream is")
+    return render(request, 'comparison_stream/index.html')
