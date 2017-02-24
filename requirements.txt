@@ -7,7 +7,9 @@ graphql-relay==0.4.5
 iso8601==0.1.11
 packaging==16.8
 promise==1.0.1
+psycopg2==2.6.2
 pyparsing==2.1.10
 singledispatch==3.4.0.3
 six==1.10.0
 typing==3.5.3.0
+whitenoise==3.3.0
